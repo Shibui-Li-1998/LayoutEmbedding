@@ -2,6 +2,7 @@
 
 #include <LayoutEmbedding/Util/Assert.hh>
 #include <LayoutEmbedding/ExactPredicates.h>
+#include <optional>
 
 namespace LayoutEmbedding
 {
